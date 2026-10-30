@@ -1,5 +1,5 @@
 /* الجبيلة PWA Service Worker */
-const CACHE_NAME = "al-jubaila-shell-v1";
+const CACHE_NAME = "al-jubaila-shell-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
